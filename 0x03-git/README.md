@@ -1,1 +1,1 @@
-This File should not be empty
+message:"Starting to code today, so cool"
